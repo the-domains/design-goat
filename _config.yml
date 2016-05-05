@@ -1,0 +1,28 @@
+name: Design Goat
+favicon: null
+layout_spectrum: 0.3615304264239967
+typography_spectrum: 0.49131043115630746
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.28336203400976956
+  lightness: 0.03866735007613897
+  saturation: 0.22182993195019662
+  rhythmicContrast: 0.3714503475930542
+purpose: []
